@@ -2,8 +2,8 @@
 
 ## Requirements
 * Language: C
-* OS: Ubuntu 14.04 LTS
-* Compiler: gcc 4.8.4
+* OS: Ubuntu 20.04 
+* Compiler: gcc 
 * Style guidelines: [Betty style] 
 
 ## Synopsis
